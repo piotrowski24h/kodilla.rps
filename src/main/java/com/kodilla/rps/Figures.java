@@ -14,8 +14,8 @@ public class Figures {
         switch (figureNumber) {
             case '1':
                 return new Rock(rock);
-            case '2':
-                return new Paper(paper);
+         //   case '2':
+          //      return new Paper(paper);
             case '3':
                 return new Scissors(scissors);
             case '4':
