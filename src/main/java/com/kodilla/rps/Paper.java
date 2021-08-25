@@ -8,7 +8,7 @@ public final class Paper implements Figure {
     private final List<String> beats = new ArrayList<>();
 
 
-    public Paper (final String figureName) {
+    public Paper(final String figureName) {
         this.figureName = figureName;
     }
 
